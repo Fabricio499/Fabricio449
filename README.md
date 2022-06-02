@@ -2,8 +2,8 @@
 > Fabricio da Costa : 20/04/2022 
 
 ## now
-* Currently Intern at Tijuca Alimentos
-* Front-End developer using ReactJS, React Native and its technologies
+* Currently at Tijuca Alimentos
+* Full-Stack developer, using JavaScript and its technologies
 * E-mail: devfabricio1@gmail.com
 * Improving and learning everyday
 </br>
